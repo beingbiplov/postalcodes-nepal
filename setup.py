@@ -11,7 +11,7 @@ setuptools.setup(
     description="A package for working with postal codes information of Nepal",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/beingbiplov",
+    url="https://github.com/beingbiplov/postalcodes-nepal",
     packages=setuptools.find_packages(),
     include_package_data=True,
     package_data={
@@ -27,11 +27,11 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    #project_urls={  # Optional
-    #    'Bug Reports': 'https://github.com/pypa/sampleproject/issues',
+    project_urls={  # Optional
+        'Bug Reports': 'https://github.com/beingbiplov/postalcodes-nepal/issues',
     #    'Funding': 'https://donate.pypi.org',
     #    'Say Thanks!': 'http://saythanks.io/to/example',
-    #    'Source': 'https://github.com/pypa/sampleproject/',
-    #},
+        'Source': 'https://github.com/beingbiplov/postalcodes-nepal',
+    },
     
 )

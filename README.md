@@ -8,6 +8,8 @@ Some of the functionality currently supported by postalcodes-nepal are:
   - Find the post office information based on city or postal code.
   - Find postal codes of all post office within a district.
   - Find postal codes of all post office of Nepal
+   
+
 
 # Installation
 
@@ -60,17 +62,21 @@ from postalcodes_nepal.postalcodes import validate
 
 validate(44600)
 ```
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE.md] file for details
  
+# Links
+
+- [Package home - PyPi]
+- [Source]
 
 
 
-
-
-
-
-
-
-
-   [git-repo-url]: <https://github.com/beingbiplov>
+    
+   [Source]: <https://github.com/beingbiplov/postalcodes-nepal>
    [biplov]: <https://github.com/beingbiplov>
+   [LICENSE.md]: <https://github.com/beingbiplov/postalcodes-nepal/blob/master/LICENSE>
+   [Package home - PyPi]: <https://pypi.org/project/postalcodes-nepal/>
    
