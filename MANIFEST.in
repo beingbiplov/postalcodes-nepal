@@ -1,0 +1,10 @@
+include *.txt
+include LICENSE
+recursive-include build *.py
+recursive-include dist *.gz
+recursive-include dist *.whl
+recursive-include postalcodes_nepal *.json
+recursive-include postalcodes_nepal *.py
+recursive-include postalcodes_nepal *.pyc
+recursive-include tests *.pyc
+
