@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="postalcodes-nepal",
-    version="0.1.1",
+    version="1.0.0",
     author="Biplov",
     author_email="sharmabiplov@gmail.com",
     description="A package for working with postal codes information of Nepal",
